@@ -3,7 +3,8 @@ This portfolio is a small project using HTML/ CSS and Boostrap. I will be using 
 
 [Live Heroku Deployment](https://portfolio-tamiru.herokuapp.com/)
 
-<img width="1041" alt="Screen Shot 2021-12-15 at 4 13 30 PM" src="https://user-images.githubusercontent.com/95067041/146273651-f1694ea3-3b34-464c-bea6-e325d7337634.png">
+<img width="1172" alt="Screen Shot 2022-03-01 at 10 40 44 AM" src="https://user-images.githubusercontent.com/95067041/156210949-66181505-6fd8-4f7f-a4fa-6e6985d2e008.png">
+
 
 ## Technologies Used
 
