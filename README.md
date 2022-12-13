@@ -1,7 +1,7 @@
 # Portfolio
 This portfolio is a small project using HTML/ CSS and Boostrap. I will be using this to show cas my projects
 
-[Live Heroku Deployment](https://portfolio-tamiru.herokuapp.com/)
+[Live replit Deployment](https://Portfolio.tamirug2015.repl.co
 
 <img width="1172" alt="Screen Shot 2022-03-01 at 10 40 44 AM" src="https://user-images.githubusercontent.com/95067041/156210949-66181505-6fd8-4f7f-a4fa-6e6985d2e008.png">
 
